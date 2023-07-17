@@ -143,8 +143,7 @@ import (
 	"strconv"
 	"time"
 
-	// "github.com/freshman-tech/news-demo/news"
-	"github.com/freshman-tech/news-demo-starter-files/news"
+	"github.com/freshman-tech/news-demo/news"
 	"github.com/joho/godotenv"
 )
 
